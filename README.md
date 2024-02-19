@@ -32,6 +32,8 @@ npm install
 
 cp .env.example .env
 
+and add your mysql database credentials
+
 4. Generate an application key:
 
 php artisan key:generate
