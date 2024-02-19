@@ -7,7 +7,6 @@
 3. [Usage](#usage)
 4. [Testing](#testing)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Description
 
@@ -19,7 +18,8 @@ To install this project, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/username/project.git
+git clone https://github.com/hasithadaffy/Server-Management-System.git
+
 cd project
 
 2. Install all the PHP and JS dependencies:
